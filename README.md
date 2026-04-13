@@ -8,7 +8,7 @@
 
 Analysis for the visual pathways project
 
-It is recommended to use [uv](https://docs.astral.sh/uv/getting-started/installation/) for package and environment management.
+It is recommended to use [uv](https://docs.astral.sh/uv/getting-started/installation/) for package and environment management and any IDE to run the notebooks (recommended [vscode](https://code.visualstudio.com/download)).
 
 You can clone this repository to a desired location and from a terminal navigate into it. Then run:
 
