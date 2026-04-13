@@ -1,0 +1,22 @@
+[project]
+name = "vispaths"
+version = "0.1.0"
+description = "Add your description here"
+authors = [{ name = "S. Kaan Cetindag", email = "cetindag.kaan@gmail.com" }]
+license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = ">=3.10"
+keywords = ["Neuroscience", "visual neuroscience"]
+classifiers = [
+    "Programming Language :: Python :: 3.10",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering",
+    'Intended Audience :: Science/Research',
+    "Typing :: Typed",
+]
+
+dependencies = [
+    "piepy-neuro"
+]
+
