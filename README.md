@@ -26,8 +26,7 @@ Once the environment is activated you need to install the piepy package:
 
 ```uv pip install piepy-neuro```
 
-After that you can navigate into `notebooks\manuscript\fig*\` to run notebooks to create panels from the manuscript.
-
+After that you can navigate into `notebooks\manuscript\fig*\` to run notebooks to create panels from the manuscript. Running each cell in the notebooks by order will generate the panel in the manuscript designated by the file name, e.g. `3.E_V1_reaction_time_change.ipynb`
 
 
 > **IMPORTANT:**
