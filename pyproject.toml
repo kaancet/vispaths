@@ -5,7 +5,7 @@ description = "Add your description here"
 authors = [{ name = "S. Kaan Cetindag", email = "cetindag.kaan@gmail.com" }]
 license = { file = "LICENSE" }
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = "==3.10.*"
 keywords = ["Neuroscience", "visual neuroscience"]
 classifiers = [
     "Programming Language :: Python :: 3.10",
